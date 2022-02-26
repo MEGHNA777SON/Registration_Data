@@ -1,0 +1,18 @@
+body{
+	background-image: url("nature1.webp");
+}
+
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(143, 59, 95);
+	color: #fff;
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+}
